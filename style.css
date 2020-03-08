@@ -20,7 +20,7 @@ body
 
 #bloc_page
 {
-    width: 100%;
+    width: auto;
 }
 
 
@@ -278,7 +278,7 @@ h1
 
     #mphotomii
     {
-        width: 100%;
+        width: auto;
 
     }
 
