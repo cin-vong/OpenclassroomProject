@@ -34,7 +34,7 @@ span{
 }
 
 .title::before: {
-content: 'Titre:'
+content: 'Titre:';
 }
 
         /*-------------HEADER---------------*/
