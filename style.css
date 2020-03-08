@@ -33,7 +33,7 @@ span{
     color: #336699;
 }
 
-.title::before: {
+.title::before {
 content: 'Titre:'
 }
 
