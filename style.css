@@ -13,7 +13,7 @@ body
 {
     font-family: robotolight, arial, serif, sans-serif;
     margin: auto;
-    border: 1px solid #3ba2d6;
+    border: 1px solid #336699;
     max-width: 900px;
 }
 
@@ -33,7 +33,7 @@ header
 
 #photomii
 {
-    background-color: #3ba2d6;
+    background-color: #336699;
     width: 35%;
     padding-top: 5%;
     padding-bottom: 4%;
@@ -43,7 +43,7 @@ header
 {
     width: 150px;
     height: 150px;
-    border: 3px solid #3ba2d6;
+    border: 3px solid #336699;
     background: url(photomii_cv.png) no-repeat;
     border-radius: 50%;
     overflow: hidden;
@@ -57,12 +57,12 @@ header
     text-align: justify;
     margin: 5%;
     line-height: 110%;
-    color: #3ba2d6;
+    color: #336699;
 }
 
 #name
 {
-    color: #3ba2d6;
+    color: #336699;
 }
 
 h1
@@ -72,7 +72,7 @@ h1
 
 u
 {
-    text-decoration-color: #3ba2d6;
+    text-decoration-color: #336699;
     padding-top: 3%;
     text-underline-position: under;
 }
@@ -94,7 +94,7 @@ main
     display: flex;
     flex-direction: column;
     width: 35%;
-    background-color: #3ba2d6;
+    background-color: #336699;
 }
 
 .infos
@@ -125,12 +125,12 @@ main
 #bloc_gauche h3
 {
     background-color: white;
-    color: #3ba2d6;
+    color: #336699;
     text-align: center;
     padding: 2% 0;
     margin: 0;
     font-size: 120%;
-    border-right: 1px solid #3ba2d6;
+    border-right: 1px solid #336699;
 }
 
 ul
@@ -170,7 +170,7 @@ ul li
 {
     width: 65%;
     margin:  0 5%;
-    color: #3ba2d6;
+    color: #336699;
 }
 
 #bloc_droit p
@@ -188,12 +188,12 @@ ul li
 #bloc_droit h4
 {
     font-size: 100%;
-    color: #3ba2d6;
+    color: #336699;
 }
 
 h3 i,.dot
 {
-    color: #3ba2d6;
+    color: #336699;
     padding-right: 5%;
 
 }
@@ -233,7 +233,7 @@ h3 i,.dot
 
 #formation, #emploi, #recommandations
 {
-    border-top: 2px solid #3ba2d6;
+    border-top: 2px solid #336699;
     padding-top: 4%;
 }
 
@@ -268,7 +268,7 @@ h1
         width: auto;
         flex-direction: column;
         margin: auto;
-        background-color: #3ba2d6;
+        background-color: #336699;
     }
     
      main
