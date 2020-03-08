@@ -1,4 +1,4 @@
-@font-face {
+@font-face{
     font-family: 'robotolight';
     src: url('fonts/Roboto-Light-webfont.eot');
     src: url('fonts/Roboto-Light-webfont.eot?#iefix') format('embedded-opentype'),
@@ -17,14 +17,10 @@ body
     max-width: 900px;
 }
 
+
 #bloc_page
 {
     width: 100%;
-}
-
-b
-{
-    font-weight: bold;
 }
 
 
@@ -113,7 +109,7 @@ main
 .moi
 {
     font-size: 80%;
-    text-align: left, justify;
+    text-align: left;
     padding: 2% 15% 5% 10%;
     margin-top: 5%;
     color: white;
@@ -165,7 +161,7 @@ ul li
     border-radius: 50%;
     color: white;
     margin: auto;
-    padding: auto;
+
 }
 
             /*-------------- BLOC DROIT--------------*/
@@ -251,14 +247,22 @@ h1
     color: black;
 }
 
+    footer {
+        display: flex;
+    } 
+
 
 @media all and (max-width: 700px) {
      body
     {
         width: auto;
-        margin: 0;
-        border:none;
+
     }
+
+    p {
+        font-size: 15px;
+    }
+
     header
     {
         width: auto;
@@ -335,7 +339,7 @@ h1
 
     #bloc_gauche h3
     {
-    font-size: 80%;
+    font-size: 100%;
     border-right: none;
     padding: 2% 0;
     }
@@ -361,6 +365,7 @@ h1
     padding: 0 5%;
     margin: 0;
     }
+    
     #loisir
     {
     width: 100%;
@@ -368,8 +373,6 @@ h1
 
     #loisir_icones
     {
-    padding: 2% 0;
+    padding: 1em;
     }
-
-
 
